@@ -4,7 +4,7 @@ fun main() = PApplet.main(Hello::class.java.name)
 
 class Hello : PApplet() {
     override fun settings() {
-        size(500, 500)
+        size(500, 500, P2D)
     }
     override fun setup() {
     }
