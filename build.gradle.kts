@@ -16,7 +16,7 @@ val osNatives = "natives-macos"
 
 repositories {
     mavenCentral()
-    maven { url = URI("https://jitpack.io") }
+    //maven { url = URI("https://jitpack.io") }
 }
 
 dependencies {
